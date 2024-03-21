@@ -37,6 +37,7 @@ dependencies:
   # cupertino_icons: ^1.0.6
   get: ^4.6.6                          #GetX
   animate_do: ^3.3.4                   #动画组件
+  window_manager: ^0.3.8               #无边框窗口
   #---------------------------------------------------------------------
   media_kit: ^1.1.10+1                 #视频播放主包
   media_kit_video: ^1.2.4              #视频渲染支持
