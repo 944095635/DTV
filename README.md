@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+<img src="https://raw.githubusercontent.com/944095635/DTV/master/image/android.jpg" width='360'>
+<img src="https://raw.githubusercontent.com/944095635/DTV/master/image/windows.jpg" >
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
